@@ -1,4 +1,3 @@
-//your code here
 const bandNames = ['The Beatles', 'Led Zeppelin', 'Pink Floyd', 'The Who', 'Aerosmith', 'Rolling Stones', 'Queen', 'Anthrax', 'Black Sabbath'];
 
 		function sortBands(bands) {
@@ -25,4 +24,3 @@ const bandNames = ['The Beatles', 'Led Zeppelin', 'Pink Floyd', 'The Who', 'Aero
 			li.appendChild(document.createTextNode(band));
 			bandList.appendChild(li);
 		});
-
